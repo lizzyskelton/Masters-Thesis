@@ -11,7 +11,7 @@ A description of each file in this folder is given below.
 
 Please contact elizabeth.skelton@pg.canterbury.ac.nz with any questions regarding these scripts or analysis. 
 
-
+## Scripts written for this research
 
 IandQResults.py
 Plotting raw inphase and quadrature signal measurements 
@@ -66,8 +66,6 @@ Removing outliers from AIT results.
 
 PPMtoMeters_AugustIce.py
 Used to test forward model curves based on SIPL cond 1000 mS/m for August ice. Not used in the end due to oversaturation of the inphase signal. 
-
-<img width="451" height="685" alt="image" src="https://github.com/user-attachments/assets/587bc74a-0853-467d-9e61-c5199b1a8bdf" />
 
 
 
