@@ -5,6 +5,10 @@ This folder contains the scripts written to analyse single-frequency EM data to 
 
 The data used span landfast sea ice in McMurdo Sound across four freeze-in dates: August, May, March (2024) and multi-year ice. These areas are separated into two groupds, 'August' and 'Earlier' for analysis. 
 - Data collected on Earlier ice was analysed under the assumption that the bulk conductivity of the sub-ice platelet layer was 800 mS/m. Measurements of consolidated ice (fast ice + snow) and sub-ice platelet layer were attained.
-- One of the signal response measurements (inphase) was oversaturated on August ice. Therefore, apparent ice thickness measurements were attained on this section - a measurement of consolidated ice thickness + some proportion (30 - 40 %) of the sub-ice platelet layer 
+- One of the signal response measurements (inphase) was oversaturated on August ice. Therefore, apparent ice thickness measurements were attained on this section - a measurement of consolidated ice thickness + some proportion (30 - 40 %) of the sub-ice platelet layer
+
+A description of each file in this folder is given below. 
 
 Please contact elizabeth.skelton@pg.canterbury.ac.nz with any questions regarding these scripts or analysis. 
+
+
